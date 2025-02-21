@@ -1,5 +1,6 @@
 splink
 duckdb
+phonetics
 streamlit
 pandas
 numpy
